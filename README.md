@@ -1,4 +1,4 @@
-# Non-convex-Optimization
+# Non-convex-Optimization Trust-Region Method
 
 The project is aimed to solve phase retrival using Trust-region method and BGD method.
 
