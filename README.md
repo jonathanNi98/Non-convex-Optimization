@@ -16,3 +16,7 @@ Sub-problem set f_q
 
 Find d 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/90212504/161879842-f7095f52-c820-4e3c-a72f-c2c33c405c7a.png">
+
+
+
+![image](https://user-images.githubusercontent.com/90212504/161881306-8d4d847f-8fc7-47e5-8e29-d7dd6f99b155.png)
